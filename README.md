@@ -7,4 +7,13 @@ I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered
 2. which industries offer the most jobs
 3. in which locations are the most jobs offered
 
-Here a example of a result:
+So I can improve these skills and find the most relevant job offers.
+
+## Example of a result
+![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
+
+## Resources
+
+**Scraper:** https://github.com/arapfaik/scraping-glassdoor-selenium  
+**Scraper Article:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+**Application:** https://github.com/PlayingNumbers/ds_salary_proj  
