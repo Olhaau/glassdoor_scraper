@@ -1,4 +1,4 @@
-# glassdoor_scraper
+# Scraper for glassdoor.de
  
 ## Project overview
 I adjusted a scraper github repo (see below) for glassdoor.com to the german glassdoor page and gathered information of around 1000 data science job offers to support my job search. I wanted to find out
