@@ -96,7 +96,7 @@ keyword_dict = {k: v / n_jobs for k,v in sorted(keyword_dict.items(), key = lamb
 
 
 sns.barplot(list(keyword_dict.values())[::-1][:-1],list(keyword_dict.keys())[::-1][:-1])
-plt.title('Most requested skills in 1000 data science job descriptions on glassdoor.de')
+plt.title('Most requested keywords in 1000 data science job descriptions on glassdoor.de')
 plt.xlabel('percentage')
 #sns.barplot(list(keyword_dict.keys()), keyword_dict.values()
 #, align = 'center'
