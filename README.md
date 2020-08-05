@@ -9,7 +9,7 @@ I adjusted a scraper github repo (see below) for glassdoor.com to the german gla
 
 to choose skills to improve and find the most relevant job offers. 
 
-## Example of a result
+## Most requested keywords
 ![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
 
 ## Resources
