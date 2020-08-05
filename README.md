@@ -15,7 +15,7 @@ to choose skills to improve and find the most relevant job offers.
 ## Resources
 **Scraper:** https://github.com/arapfaik/scraping-glassdoor-selenium  
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
-**Application:** https://github.com/PlayingNumbers/ds_salary_proj  
+**Similar application:** https://github.com/PlayingNumbers/ds_salary_proj  
 
 ## Code
 **Python Version:** 3.8  
